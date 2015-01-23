@@ -1,5 +1,5 @@
-# MOLI
-<h3>Structural Engineering Webpages with Bootstrap Template</h3>
+# Bootstrap Templates
+<h3>MOLI Structural Engineering Webpages</h3>
 
 Carousel Version
 
